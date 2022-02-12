@@ -16,10 +16,19 @@ Here are some ideas to get you started:
 <h2 align="center">Hi there 👋 !  I'm Oluwatimilehin Samuel Alapakristi</h2>
 <p align="center">A Software Engineer with a product mindset who has reasonable years of experience accompanied with strong technical skills as well as excellent interpersonal skills who can translate an idea from scratch to MVP and further scale it. I'm also a Music Minister and a Pianist.</p>
 <p align="center">
+   
    <a  align="center" href="https://twitter.com/samalapsy">
-   <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/samalapsy"></a> 
+      <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/samalapsy" />
+   </a> 
+
    <a href="https://www.linkedin.com/in/samalapsy/" align="center" >
-   <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/"></a>
+      <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/" />
+   </a>   
+   
+   <a href="https://www.medium.com/samalapsy/" align="center" >
+      <img align="center"  alt="Medium" src="https://img.shields.io/badge/-Medium-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.medium.com/samalapsy/" />
+   </a>
+   
  </p>
 
 
