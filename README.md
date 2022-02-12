@@ -37,7 +37,7 @@ Here are some ideas to get you started:
    
 ### Languages and Tools:  
 
-   <code><img width="auto" height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
+   <code><img width="auto" height="20" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
     <code><img width="auto"  height="20" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
    <code><img width="auto"  height="20" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"></code>
   <code><img width="auto"  height="20" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
