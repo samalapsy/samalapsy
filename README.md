@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <code><img width="10%"  height="20" src="https://img.shields.io/badge/MySql-4EA94B?style=for-the-badge&logo=MySql&logoColor=white"></code>
 <br><br>
 <code><img width="auto"  height="20" src="https://img.shields.io/badge/PHP-3DDC84?style=for-the-badge&logo=php&logoColor=white"></code>
-     <code><img width="auto"  height="20" src="https://img.shields.io/badge/Laravel-3DDC84?style=for-the-badge&logo=laravel&logoColor=#f9322c"></code>
+     <code><img width="auto"  height="20" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=#f9322c"></code>
 <br><br>
 
    </div>
