@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    <a  align="center" href="https://twitter.com/samalapsy">
    <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/samalapsy"></a> 
    <a href="https://www.linkedin.com/in/samalapsy/" align="center" >
-   <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/"></a>
+   <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/"></a>
  </p>
 
 
