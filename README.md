@@ -39,16 +39,14 @@ Here are some ideas to get you started:
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/GoLang-007d9c?style=for-the-badge&logo=go&logoColor=white"></code>
-   
-   <br><br>
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
-   <code><img width="auto"  height="25" src="https://img.shields.io/badge/Vue-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
-      <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>
+<!--    <br><br>  <code><img width="auto"  height="25" src="https://img.shields.io/badge/Vue-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
+      <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>-->
 
    <br><br>
       <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
    <code><img width="auto"   height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
-   <br><br>
+
    </div>
