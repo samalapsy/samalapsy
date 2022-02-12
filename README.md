@@ -25,8 +25,8 @@ Here are some ideas to get you started:
       <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/" />
    </a>   
    
-   <a href="https://www.medium.com/samalapsy/" align="center" >
-      <img align="center"  alt="Medium" src="https://img.shields.io/badge/-Medium-45484c?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/samalapsy/" />
+   <a href="https://samalapsy.medium.com" align="center" >
+      <img align="center"  alt="Medium" src="https://img.shields.io/badge/-Medium-45484c?style=flat-square&logo=Medium&logoColor=white&link=https://samalapsy.medium.com" />
    </a>
    
  </p>
