@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    </a>   
    
    <a href="https://www.medium.com/samalapsy/" align="center" >
-      <img align="center"  alt="Medium" src="https://img.shields.io/badge/-Medium-0a66c2?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/samalapsy/" />
+      <img align="center"  alt="Medium" src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/samalapsy/" />
    </a>
    
  </p>
