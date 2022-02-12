@@ -21,3 +21,27 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/samalapsy/" align="center" >
    <img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samalapsy/"></a>
  </p>
+
+
+
+<div align="center">
+
+  <div>
+    <img  src="https://github-readme-stats.vercel.app/api?username=MilindModi&show_icons=true&count_private=true&hide=contribs,issues&hide_border=true">
+   
+
+### Languages and Tools:  
+
+<code><img width="10%" height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
+ <code><img width="10%"  height="20" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
+<code><img width="10%"  height="20" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
+<br><br>
+<code><img width="10%"   height="20" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
+<code><img width="10%"  height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img width="10%"  height="20" src="https://img.shields.io/badge/MySql-4EA94B?style=for-the-badge&logo=MySql&logoColor=white"></code>
+<br><br>
+<code><img width="10%"  height="20" src="https://img.shields.io/badge/PHP-3DDC84?style=for-the-badge&logo=php&logoColor=white"></code>
+     <code><img width="10%"  height="20" src="https://img.shields.io/badge/Laravel-3DDC84?style=for-the-badge&logo=laravel&logoColor=white"></code>
+<br><br>
+
+   </div>
