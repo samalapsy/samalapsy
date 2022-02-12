@@ -43,7 +43,7 @@ Here are some ideas to get you started:
    <br><br>
    <code><img width="10%"   height="20" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
    <code><img width="10%"  height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-   <code><img width="10%"  height="20" src="https://img.shields.io/badge/MySql-4EA94B?style=for-the-badge&logo=MySql&logoColor=white"></code>
+   <code><img width="10%"  height="20" src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
    <br><br>
    <code><img width="auto"  height="20" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"></code>
         <code><img width="auto"  height="20" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
