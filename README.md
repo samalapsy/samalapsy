@@ -36,12 +36,14 @@ Here are some ideas to get you started:
 <div align="center">
    
 ### Languages and Tools:  
-
-<code><img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
-   <code><img width="auto"  height="25" src="https://img.shields.io/badge/Vue-42b883style=for-the-badge&logo=vue&logoColor=yellow"></code>
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/GoLang-007d9c?style=for-the-badge&logo=go&logoColor=white"></code>
+   
+   <br><br>
+<code><img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
+   <code><img width="auto"  height="25" src="https://img.shields.io/badge/Vue-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
+      <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>
 
    <br><br>
       <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
