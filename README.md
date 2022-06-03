@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/TypeScript-007d9c?style=for-the-badge&logo=go&logoColor=white"></code>
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
-<br><br>  <code><img width="auto"  height="25" src="https://img.shields.io/badge/Vue-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
-      <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>
+<!-- <br><br>  <code><img width="auto"  height="25" src="https://img.shields.io/badge/VueJs-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
+      <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>-->
 
    <br>
       <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
