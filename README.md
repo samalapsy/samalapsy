@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi there 👋 !  I'm Oluwatimilehin Samuel Alapakristi</h2>
-<p align="center">A Software Engineer with a product mindset who has reasonable years of experience accompanied with strong technical skills as well as excellent interpersonal skills who can translate an idea from scratch to MVP and further scale it. I'm also a Music Minister and a Pianist. I’m currently learning Golang, AWS DevOps</p>
+<p align="center">A Software Engineer with a product mindset who has reasonable years of experience accompanied with strong technical skills as well as excellent interpersonal skills who can translate an idea from scratch to MVP and further scale it. I'm also a Musician and a Pianist.</p>
 <p align="center">
    
    <a  align="center" href="https://twitter.com/samalapsy">
