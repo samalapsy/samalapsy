@@ -47,6 +47,8 @@ Here are some ideas to get you started:
       <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
    <code><img width="auto"   height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+      <code><img width="auto"  height="25" src="https://img.shields.io/badge/MongoDB.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
+      <code><img width="auto"  height="25" src="https://img.shields.io/badge/PostgreSql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
 
    </div>
