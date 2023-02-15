@@ -36,15 +36,15 @@ Here are some ideas to get you started:
 <div align="">
    
 ### Languages and Tools:  
-<img width="auto"  height="25" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white">
-<code><img width="auto"  height="25" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"></code>
-   <code><img width="auto"  height="25" src="https://img.shields.io/badge/TypeScript-007d9c?style=for-the-badge&logo=go&logoColor=white"></code>
-<code><img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"></code>
-      <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
-   <code><img width="auto"   height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
-   <code><img width="auto"  height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-      <code><img width="auto"  height="25" src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
-   <code><img width="auto"  height="25" src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
-      <code><img width="auto"  height="25" src="https://img.shields.io/badge/PostgreSql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"></code>
+<img width="auto"  height="25" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/TypeScript-007d9c?style=for-the-badge&logo=go&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=yellow"> &nbsp;
+<img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"> &nbsp;
+<img width="auto"   height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/MongoDB-43853D?style=for-the-badge&logo=node.js&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/MySql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"> &nbsp;
+<img width="auto"  height="25" src="https://img.shields.io/badge/PostgreSql-4479a1?style=for-the-badge&logo=MySql&logoColor=white"> &nbsp;
 
    </div>
