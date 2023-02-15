@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there 👋 !  I'm Oluwatimilehin Samuel Alapakristi</h2>
-<p align="center">A Software Engineer with a product mindset who has reasonable years of experience accompanied with strong technical skills as well as excellent interpersonal skills who can translate an idea from scratch to MVP and further scale it. I'm also a Musician and a Pianist.</p>
-<p align="center">
+<h2 >Hi there 👋 !  I'm Oluwatimilehin Samuel Alapakristi</h2>
+<p>A Senior software engineer having over 8 years of experience in the software development cycle. High proficiency in leading engineering team(s) to achieve software development, upgrades, increase business efficiency and delivering world-class solutions. I am of the opinion that great skills require great and intentional practice which then makes me a continuous learner.</p>
+<p>
    
    <a  align="center" href="https://twitter.com/samalapsy">
       <img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-1d9bf0?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/samalapsy" />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+<div align="">
    
 ### Languages and Tools:  
 <code><img width="auto"  height="25" src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white"></code>
