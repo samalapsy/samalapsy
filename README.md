@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 >Hi there 👋 !</h2>
+<h2 >Hi there 👋</h2>
 <p>I'm a Senior software engineer having over 8 years of experience in the software development cycle. High proficiency in leading engineering team(s) to achieve software development, upgrades, increase business efficiency and delivering world-class solutions. I am of the opinion that great skills require great and intentional practice which then makes me a continuous learner.</p>
 <p>
    
