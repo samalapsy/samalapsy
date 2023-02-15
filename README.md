@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 >Hi there 👋 !</h2>
-<p>A Senior software engineer having over 8 years of experience in the software development cycle. High proficiency in leading engineering team(s) to achieve software development, upgrades, increase business efficiency and delivering world-class solutions. I am of the opinion that great skills require great and intentional practice which then makes me a continuous learner.</p>
+<p>I'm a Senior software engineer having over 8 years of experience in the software development cycle. High proficiency in leading engineering team(s) to achieve software development, upgrades, increase business efficiency and delivering world-class solutions. I am of the opinion that great skills require great and intentional practice which then makes me a continuous learner.</p>
 <p>
    
    <a  align="center" href="https://twitter.com/samalapsy">
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 <!-- <br><br>  <code><img width="auto"  height="25" src="https://img.shields.io/badge/VueJs-42b883style=for-the-badge&logo=vuejs&logoColor=yellow"></code>
       <code><img width="auto"  height="25" src="https://img.shields.io/badge/NuxtJs-42b883style=for-the-badge&logo=nuxt&logoColor=yellow"></code>-->
 
-   <br>
       <code><img width="auto" height="25" src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"></code>
    <code><img width="auto"   height="25" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></code>
    <code><img width="auto"  height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
